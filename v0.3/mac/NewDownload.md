@@ -1,1 +1,0 @@
-Hello this is a mac download for v0.3

@@ -1,1 +1,0 @@
-Hello this is a Windows download for v0.3

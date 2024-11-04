@@ -1,1 +1,0 @@
-Hello this is a Android download for v0.2
